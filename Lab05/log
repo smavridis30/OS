@@ -1,0 +1,35 @@
+/home/smavridis/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+stat: cannot stat 'filename': No such file or directory
+  File: example1.c
+  Size: 485       	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 409987      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1232/smavridis)   Gid: ( 1234/smavridis)
+Access: 2024-12-19 12:20:40.538641889 +0200
+Modify: 2024-12-19 12:25:36.413756025 +0200
+Change: 2024-12-19 12:25:36.413756025 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
+mv: cannot stat 'oldname.txt': No such file or directory
+rm: cannot remove '/home/smavridis/Lab05/new_folder': Is a directory
+
+Command 'fin' not found, did you mean:
+
+  command 'fio' from deb fio (3.16-1)
+  command 'fid' from deb id-utils (4.6+git20120811-4ubuntu2)
+  command 'tin' from deb tin (1:2.4.4-1build2)
+  command 'fim' from deb fim (0.5.3-2build1)
+  command 'win' from deb wily (0.13.41-8build1)
+  command 'din' from deb din (5.2.1-6build1)
+  command 'find' from deb findutils (4.7.0-1ubuntu1)
+  command 'fis' from deb redboot-tools (0.7build3)
+
+Try: apt install <deb name>
+
+cat: file.txt: No such file or directory
